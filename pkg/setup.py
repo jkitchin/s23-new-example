@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(
-    name="s23oa",
+    name = "s23oa",
     version="0.0.1",
     description="OpenAlex utilities",
     maintainer="John Kitchin",
